@@ -20,9 +20,11 @@ def textToCleanDic(fileName):
     file.close()
     return dc
 
+print("hey i got here")
 authToken = api.authenticate()
 translation_url = 'http://api.microsofttranslator.com/V2/Ajax.svc/Translate?'
 enZHdictionary = textToCleanDic(fileName)
+
 
 def translateDic(dic):
     index = len(dic)
@@ -39,8 +41,9 @@ def translateDic(dic):
         }
         translation_result = requests.get(translation_url+urllib.urlencode(translation_args)
                                           ,headers=authToken)
+
         decoded = translation_result.content.decode('UTF-8')
-        decoded = decoded.strip('"')
+        print (decoded)
         newTupe = (eng,decoded)
         dic[i] = newTupe
 
@@ -51,7 +54,7 @@ def writeToFile(fileName):
     dic = translateDic(enZHdictionary)
     with open(fileName, 'w') as file:
         for key in dic:
-            line = "\"" + key[0] + "\" =  \"" + key[1] + "\";\n"
+            line = "\"" + key[0] + "\" =  " + key[1] + ";\n"
             file.write(line)
 
         file.close()
