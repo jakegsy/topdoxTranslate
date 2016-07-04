@@ -1,0 +1,1194 @@
+/*
+ Localizable.strings
+ TopDocs
+ 
+ Created by Nelson Pereira on 30/05/14.
+ Copyright (c) 2014 nn. All rights reserved.
+ */
+
+"[APP NAME]" = "TOPDOX";
+"box://"= "Box";
+"db://" = "Dropbox";
+"gd://"="GDrive";
+"od://"="OneDrive";
+"odb://"="OneDrive for Business";
+"egn://"="Egnyte";
+"camera://"="照片";
+"camera8://"="照片";
+"Camera Roll"="照片";
+
+"Insert passcode to unlock!"="请输入密码！";
+"Wrong Passcode"="输错密码";
+"Please try again"="请再试一次";
+"Please Wait"="请稍等";
+"Waiting for file to be ready."="正在预备文件中";
+"Cancel"="取消";
+"Delete"="删除";
+"Do you want to delete this file/folder? This can not be undone."="您确定要删除这个文件/文件夹？";
+"Copy"="复制";
+"This directory?"="这个文件目录吗?";
+"Move"="移动文件";
+"Rename"="改名";
+"Zip"="压缩 (Zip)";
+"unnamed.zip"="无名文件.zip";
+"Open in..."="打开在...";
+"E-mail File"="电邮文件";
+"Get share link"="网站链接";
+"Copy to..."="复制到...";
+"Move to..."="移动到...";
+"Copying files/folders to..."="正在复制文件/文件夹到...";
+"Moving files/folders to..."="正在移动文件/文件夹到...";
+"<a href=\"http://social.topdox.com/dox)\">Sent with TOPDOX App</a>"="<a href=\"http://social.topdox.com/dox)\">使用TOPDOX发送</a>";
+"The upload/download task finished. Your files are ready."="上传/下载任务已完成。您的文件已经准备好。";
+"Open App"="打开";
+"Failure!"="任务失败！";
+"Offline!"="离线！";
+"OFFLINE"="离线！";
+"No Internet Connection!"="无Internet连线！";
+"OK"="OK";
+"file selected"="已选择文件";
+"files selected"="已选择文件";
+"ERROR"="出了错误！";
+"Sync files"="同步文件";
+"Do you want to sync all the outdated files?"="您要同步所有的过期文件吗？";
+"Later"="稍后";
+"Sync now"="立即同步";
+"Sync files list"="同步文件表";
+"This files list sync allows a much faster file navigation. File list may be incomplete until you finish sync. You can resume this operation at any time with the swipe to refresh gesture."="同步文件表可超速文件浏览。如果同步不完成，文件表可能会不完整。请";
+"Settings"="设置";
+"Edit"="编辑";
+"Add [scheme] account"="添加 [scheme] 帐号";
+"Please specify a name:"="请指定一个名称：";
+"Add"="添加";
+"Loading..."="载入中...";
+"[FILESIZE] | [FILEDATE]"="[文件大小] | [文件日期]";
+"Loading..."="载入中...";
+"Select"="选择";
+"Open"="打开";
+"Share"="共享";
+"Rename"="改名";
+"TODO"="要做的事";
+"Create Folder"="新建文件夹";
+"Please insert the new folder's name"="";
+"Create"="Create";
+"App Feedback & Support"="App Feedback & Support";
+"Share some love!"="Share some love!";
+"Download App Manual"="Download App Manual";
+"App LockScreen"="App LockScreen";
+"Clear App cache"="Clear App cache";
+"Free local memory"="Free local memory";
+"Subscribe TOPDOX \"Premium\""="Subscribe TOPDOX \"Premium\"";
+"Accomplish even more with TOPDOX Premium"="Accomplish even more with TOPDOX Premium";
+"Clear Cache"="Clear Cache";
+"Free local memory"="Free local memory";
+"No internet connection. Working offline."="No internet connection. Working offline.";
+"Later"="Later";
+"Subscribe"="Subscribe";
+"Box support coming soon"="Box support coming soon";
+"Box OneCloud support will be added in our next update."="Box OneCloud support will be added in our next update.";
+
+"Enable caching"="Enable caching";
+"Become a Premium by caching files. Save time and network data. Subscribe Now!"="Become a Premium by caching files. Save time and network data. Subscribe Now!";
+
+"Multiple Accounts"="Multiple Accounts";
+"Become a Premium and add as many accounts per cloud as you like! Never run out of cloud space again. Subscribe Now!"="Become a Premium and add as many accounts per cloud as you like! Never run out of cloud space again. Subscribe Now!";
+
+"Star your files & folders"="Star your files & folders";
+"Become a Premium and have all your important files offline and in sync, anytime, anywhere. Subscribe Now!"="Become a Premium and have all your important files offline and in sync, anytime, anywhere. Subscribe Now!";
+
+"Search all your clouds"="Search all your clouds";
+"Become a Premium and search for any file, in any cloud. Just one search box. Subscribe Now!"="Become a Premium and search for any file, in any cloud. Just one search box. Subscribe Now!";
+
+"Restore TOPDOX \"Premium\""="Restore TOPDOX \"Premium\"";
+"Restore Premium subscription"="Restore Premium subscription";
+
+"Add"="Add";
+
+"Skip"="Skip";
+
+"free of"="free of";
+
+"Get started" = "Get started";
+
+"New Folder" = "New Folder";
+
+"New Document (.odt)" = "New Document (.odt)";
+
+"New Document (.docx)" = "New Document (.docx)";
+
+
+"Coming soon." = "Coming soon!";
+
+"Google documents editing is in the works. Will be available is a future release." = "Google documents' editing is in the works. It will be available in a future release.";
+
+"Missing Information" = "Missing credentials";
+
+"Make sure you fill out all of the information!" = "Make sure you fill out your user and password.";
+
+"Connecting…" = "Connecting…";
+
+"Downloading…" = "Downloading…";
+
+"Uploading…" = "Uploading…";
+
+"Welcome!" = "Welcome!";
+
+"Review" = "Review";
+
+#//Text editors
+
+"Save or Discard changes" = "Save or discard changes";
+"Save" = "Save";
+"Discard" = "Discard";
+"Save as..." = "Save as...d";
+"Discard cannot be undone" = "Discard cannot be undone";
+
+"Bold" = "Bold";
+"Italic" = "Italic";
+"Underline" = "Underline";
+"Strikethrough" = "Strikethrough";
+
+"Align Left" = "Align Left";
+"Center Text" = "Center Text";
+"Align Right" = "Align Right";
+"Justify Text" = "Justify Text";
+
+"Replace file/folder?" = "Replace file/folder?";
+"A file/folder with the same name already exists in the current directory." = "A file/folder with the same name already exists in the current directory.";
+"Replace"= "Replace";
+"Create Copy" = "Create Copy";
+
+"Save document" = "Save document";
+"Please insert the name for your document" = "Please insert the name for your document";
+"Document name" = "Document name";
+"Your document can’t be saved to .DOCX format while offline. Don't worry, you won’t lose your work, it will be saved in .DOCX format as soon you get internet connection. For now we will keep a draft." = "Your document can’t be saved to .DOCX format while offline. Don't worry, you won’t lose your work, it will be saved in .DOCX format as soon you get internet connection. For now we will keep a draft.";
+"You need an internet connection to start editing .DOCX (Microsoft Word) documents" = "You need an internet connection to start editing .DOCX (Microsoft Word) documents";
+
+"Undo" = "Undo";
+"Redo" = "Redo";
+
+"Syncing...\nPlease Wait." = "Indexing...\nPlease Wait.";
+
+"Loading editor..." = "Loading editor...";
+"Something went wrong! Please check your internet connection or try later." = "Something went wrong! Please check your internet connection or try later.";
+"Saving document..." = "Saving document...";
+
+"Notice" = "Notice";
+"We updated %@ app internal structure to improve performance and stability, as a result you need to add your cloud accounts again. We apologize for the inconvenience." = "We updated %@ app internal structure to improve performance and stability, as a result you need to add your cloud accounts again. We apologize for the inconvenience.";
+
+"PDF Exported!" = "PDF Exported!";
+"PDF document saved on your device." = "PDF document saved on your device.";
+"PDF Export failed!" = "PDF Export failed!";
+"Sorry, something went wrong! Please try again or contact support." = "Sorry, something went wrong! Please try again or contact support.";
+
+//IntroSLides
+"Word processor" = "Word processor";
+"Your content, your way." = "Your content, your way.";
+
+"Multi cloud support" = "Multi cloud support";
+"Many little clouds make a big one." = "Many little clouds make a big one.";
+
+"Global search" = "Global search";
+"One search + your clouds = results." = "One search + your clouds = results.";
+
+"Offline access" = "Offline access";
+"No internet? No problem." = "No internet? No problem.";
+
+"Improved security" = "Improved security";
+"Because private files are private." = "Because private files are private.";
+
+"High quality preview" = "High quality preview";
+"View your docs at their best." = "View your docs at their best.";
+
+"Manage, read & share your files." = "Manage, read & share your files.";
+"Wherever you are." = "Wherever you are.";
+
+"Manage, edit, read & share your documents." = "Manage, edit, read & share your documents.";
+"Edit, read & share your documents." = "Edit, read & share your documents.";
+
+#//pdf reader strings
+"Done"						= "Done";
+"Cancel"					= "Cancel";
+"Delete"					= "Delete";
+"Close"						= "Close";
+
+"Library"					= "Library";
+"Updating"					= "Updating";
+"Documents"					= "Documents";
+"Folders"					= "Folders";
+"Recent"					= "Recent";
+
+"%i of %i"					= "%1$i of %2$i";
+
+"NewFolderName"				= "New folder name";
+"FolderAlreadyExists"		= "Folder name already exists";
+
+"NewDocumentName"			= "Rename document";
+"InvalidDocumentName"		= "Invalid document name";
+"DocumentAlreadyExists"		= "Document name already exists";
+
+"ConfirmDeleteTitle"		= "Confirm Delete";
+"ConfirmDeleteMessage"		= "Do you really want to delete the selected items?";
+
+"DocumentPassword"			= "Document password";
+"IncorrectPassword"			= "Incorrect document password";
+
+"We are preparing your account" = "We are preparing your account and indexing your clouds. It can take a while depending on cloud size and items. You can use start using the app now, but some items may not show while indexing.";
+
+"Created document with name %@" = "Created document with name %@";
+"Deleted document with name %@" = "Deleted document with name %@";
+"Updated document with name %@" = "Updated document with name %@";
+
+"Created %d items on %@" = "Created %d items on %@";
+"Deleted %d items on %@" = "Deleted %d items on %@";
+"Updated %d items on %@" = "Updated %d items on %@";
+
+"Your account is is still syncing, because of that some items may not appear yet. Please try again later." = "Your account is still indexing, some items may not appear yet. Please try again later.";
+
+"Username already in use" = "Username already in use";
+
+"Tap the on the stars to favorite your files" = "Tap the on the star icon to favorite your files";
+
+"We need permission to notify you of file changes while the app works in background" = "We need permission to notify you of file changes while the app works in background";
+
+"No Internet Connection, Please connect to the internet. Only cached or favorite files will load offline." = "No Internet Connection, Please connect to the internet. Only cached or favorite files will load offline.";
+
+"No Internet Connection, Please connect to the internet. You can only read and edit favorite files offline, all other operations are not possible." = "No Internet Connection, Please connect to the internet. You can only read and edit favorite files offline, all other operations are not possible.";
+
+//erros processing timeouts
+"Something went wrong with the %@ operation." = "Something went wrong with the %@ operation.";
+"upload" = "upload";
+"download" = "download";
+"refresh" = "refresh";
+"save" = "save";
+//------
+
+"Please try again later." = "Please try again later.";
+
+"Some information is missing." = "Some information is missing.";
+
+"Local Storage" = "Local Storage";
+
+"Documents" = "Documents";
+
+"Music" = "Music";
+
+"Photos" = "Photos";
+
+"Link a Box Account..." = "Link a Box Account...";
+
+"Link a Dropbox Account..." = "Link a Dropbox Account...";
+
+"Link a GDrive Account..." = "Link a GDrive Account...";
+
+"Link a OneDrive Account..." = "Link a OneDrive Account...";
+
+"Access all your clouds in one place" = "Access all your clouds in one place";
+
+"Add multiple accounts of a service" = "Add multiple accounts of a service";
+
+"Swipe left to show account options" = "Swipe left to show account options";
+
+"Drives" = "Files";
+
+"Favorites" = "Favorites";
+
+"Profile" = "Profile";
+
+"Wrong Password" = "Wrong Password";
+
+"Username not found" = "Username not found";
+
+"Opening..."= "Opening...";
+
+"Content not supported yet!" = "Content not supported yet!";
+
+"We can not open this this document at the moment. Wait for future updates." = "We can not open this this document at the moment. Wait for future updates.";
+
+"We were unable to delete account." = "We were unable to delete account.";
+
+"Removing your account." = "Removing your account.";
+
+"Tip: You can have as many [scheme] linked as you like." = "Tip: You can have as many [scheme] linked as you like.";
+
+"Unlink [scheme]" = "Unlink [scheme]";
+
+"If you unlink [scheme], it will be removed from the app. Files in your cloud won't be changed." = "If you unlink [scheme], it will be removed from the app. Files in your cloud won't be changed.";
+
+"Delete [name]" = "Delete [name]";
+
+"[name] will be deleted. This can't be undone." = "[name] will be deleted. This can't be undone.";
+
+"Rename file" = "Rename file";
+
+"Rename" = "Rename";
+
+"New folder name" = "New folder name";
+
+"Rename your cloud" = "Rename your cloud";
+
+"Backup your Photos to [scheme]" = "Backup your Photos to [scheme]";
+
+"Depending on the size of your Photo Library, it may take some time to finish the backup." = "Depending on the size of your Photo Library, it may take some time to finish the backup.";
+
+"%@ item(s) will be copied here" = "%@ item(s) will be copied here";
+
+"%@ item(s) will be moved here" = "%@ item(s) will be moved here";
+
+"Check Activity tab for details" = "Check Activity tab for details";
+
+"Copy in progress" = "Copy in progress";
+
+"Move in progress" = "Move in progress";
+
+"Select All" = "Select All";
+
+"Deselect All" = "Deselect All";
+
+"Find everything" = "Find everything";
+
+"Search for files and folders on your device and cloud services." = "Search for files and folders on your device and cloud services.";
+
+"Cloud search is available with premium." = "Cloud search is available with premium.";
+
+"Searching..." = "Searching...";
+
+"Deleting file..." = "Deleting file...";
+
+"We could not delete this file." = "We could not delete this file.";
+//----------- share link
+
+"Getting link..." = "Getting link...";
+
+"Link copied" = "Link copied";
+
+"We were unable to generate link." = "We were unable to generate link.";
+
+
+"Unfavorite" = "Unfavorite";
+
+"Offline" = "Offline";
+
+"Make available offline" = "Make available offline";
+
+"Zip file(s)" = "Zip file(s)";
+
+// ------------- Lock Screen
+
+"LockScreen" = "LockScreen";
+
+"Use LockScreen" = "Use LockScreen";
+
+"Change LockScreen code" = "Change LockScreen code";
+
+"Use \"Add Drive\" to add more drives" = "Use \"Add Drive\" to add more drives";
+
+"Activity" = "Recent";
+
+"More" = "More";
+
+"Filters" = "Filters";
+
+"Unlink" = "Unlink";
+
+"Reload" = "Reload";
+
+"Other..." = "Other...";
+
+"Add Box" = "Add Box";
+
+"Add Dropbox" = "Add Dropbox";
+
+"Add Google Drive" = "Add Google Drive";
+
+"Add One Drive" = "Add One Drive";
+
+"Add iCloud" = "Add iCloud";
+
+"Files" = "Files";
+
+"Add Drive" = "Add Drive";
+
+"Tap me to edit." = "Tap me to edit.";
+
+//---USER PROFILE
+
+"Account" = "Account";
+
+"Edit your profile information" = "Edit your profile information";
+
+"Preferences" = "Preferences";
+
+"Backups, security and more" = "Backups, security and more";
+
+"Premium" = "Premium";
+
+"Unlock advanced features"= "Advanced features";
+"Unlock advanced features - %@" = "Advanced features - %@";
+
+"Help and support"= "Help and support";
+
+"Get in touch with the support team"= "Get in touch with the support team";
+
+"Share some love!" = "Share some love!";
+
+"Rate the app, submit feedback and more" = "Rate the app, submit feedback and more";
+
+"About" = "About";
+
+"App version and more" = "App version and more";
+
+"Backup & Security" = "Backup & Security";
+
+"Cache & History" = "Cache & History";
+
+"Backup photos to:"= "Backup photos to:";
+
+"App lock screen" = "App lock screen";
+
+"Clear app cache" = "Clear app cache";
+
+"Clear file activity" = "Clear file activity";
+
+"Unlock [APP]" = "Unlock [APP]";
+
+"Clear app cache" = "Clear app cache";
+
+"Clear" = "Clear";
+
+"Files in temporary memory will be removed to free local memory. No files will be deleted." = "Files in temporary memory will be removed to free local memory. No files will be deleted.";
+
+"Work Area" = "Work Area";
+
+"Updating Work Area..." = "Updating Work Area...";
+
+"Something went wrong" = "Something went wrong";
+
+"Work Area updated" = "Work Area updated";
+
+"Birthday" = "Birthday";
+
+"Updating Birthday..." = "Updating Birthday...";
+
+"Birthday updated" = "Birthday updated";
+
+"Gender" = "Gender";
+
+"Male" = "Male";
+
+"Female" = "Female";
+
+"Updating Gender..." = "Updating Gender...";
+
+"Gender updated" = "Gender updated";
+
+"Additional Info" = "Additional Info";
+
+"Updating Profile picture..." = "Updating Profile picture...";
+
+"Profile picture updated" = "Profile picture updated";
+
+"GET IN TOUCH" = "GET IN TOUCH";
+
+"LEARN MORE" = "LEARN MORE";
+
+"Blog" = "Blog";
+
+"Site" = "Site";
+
+"Quick start guide" = "Quick start guide";
+
+"HELP US IMPROVE" = "HELP US IMPROVE";
+
+"SHARE" = "SHARE";
+
+"Rate %@ on the App Store" = "Rate %@ on the App Store";
+
+"Visit site"= "Visit site";
+
+"All clouds up to date" = "All clouds are up to date";
+
+"You downloaded:" = "You downloaded:";
+
+"You added:" = "You added:";
+
+"You deleted:" = "You deleted:";
+
+"You uploaded:" = "You uploaded:";
+
+"You updated:" = "You updated:";
+
+"No operation pending"= "No recent operations";
+
+"FILE ACTIVITY" = "RECENT";
+
+"CLOUD SYNC" = "ACTIVITY";
+
+"Name" = "Name";
+
+"Logged in as" = "Logged in as";
+
+"New OpenDocument" = "New OpenDocument";
+
+"New MS Word Document" = "New MS Word Document";
+
+"Adding files to favorites..." = "Adding files to favorites...";
+
+"Removing files from favorites..." = "Removing files from favorites...";
+
+"Syncing files..." = "Indexing files...";
+
+"Print Document" = "Print Document";
+
+"Export PDF" = "Export PDF";
+
+"Edit Document" = "Edit Document";
+
+"Become a Premium and print your files. Subscribe Now!" ="Become a Premium and print your files. Subscribe Now!";
+
+"All your photos have been saved" = "All your photos have been saved";
+
+"This may take a while" = "This may take a while";
+
+"Download in progress"= "Download in progress";
+
+
+"There was an error updating your user profile." = "There was an error updating your user profile.";
+
+"Please try again or contact support."= "Please try again or contact support.";
+
+"No Internet Connection, Please connect to the internet." = "No Internet Connection, Please connect to the internet.";\
+
+"Only cached or favorite files will load offline." = "Only cached or favorite files will load offline.";
+
+"You can only read and edit favorite files offline, all other operations are not possible." = "You can only read and edit favorite files offline, all other operations are not possible.";
+
+"It seems the current directory has been removed." = "It seems the current directory has been removed.";
+
+"Please try again or contact support." = "Please try again or contact support.";
+
+"Sorry, we were not able to complete the operation." = "Sorry, we were not able to complete the operation.";
+
+"Sorry, we were not able to download this file." = "Sorry, we were not able to download this file.";
+
+"Please verify your account." = "Please verify your account.";
+
+"Business" = "Business";
+"Education" = "Education";
+"Engineering" = "Engineering";
+"Finance" = "Finance";
+"IT & Internet" = "IT & Internet";
+"Management" = "Management";
+"Medical" = "Medical";
+"Music Industry" = "Music Industry";
+"Other" = "Other";
+"Student" = "Student";
+
+"Syncing..." = "Indexing...";
+
+"Connecting..." = "Connecting...";
+
+"Loading document..." = "Loading document...";
+
+"Only cached or favourite files will load offline." = "Only cached or favourite files will load offline.";
+
+"You can only read and edit files offline, all other operations are not possible." = "You can only read and edit files offline, all other operations are not possible.";
+
+"Backup photos" = "Backup photos";
+
+"Your %@ account finished successfully to sync. It's now ready to read, organize, delete or search for files & documents" = "Your %@ account finished successfully to sync. It's now ready to read, organize, delete or search for files & documents";
+
+"Backup in progress" = "Backup in progress";
+
+"All file activity notifications will be cleared. \n No files will be deleted ." = "All file activity notifications will be cleared. \n No files will be deleted .";
+
+"Folder" = "Folder";
+
+"Sync All" = "Sync All";
+
+//----------- Moved to English until here
+
+"TOPDOX - is a Documents Collaboration Platform, any document format, across any cloud storage.\n\n At TOPDOX, we envision a world where people do things together regardless of the platform, the technology, the format or the device they use.\n\n Can you remember how simple it was to work together in a piece of paper? We could use any kind of paper and any kind of pen or pencil to do things, and it just worked. That simplicity is what we are looking for in a modern, connected and complex digital world. This is why TOPDOX came up.\n\n Let’s get out of the box and start doing things together." = "TOPDOX - is a Documents Collaboration Platform, any document format, across any cloud storage.\n\n At TOPDOX, we envision a world where people do things together regardless of the platform, the technology, the format or the device they use.\n\n Can you remember how simple it was to work together in a piece of paper? We could use any kind of paper and any kind of pen or pencil to do things, and it just worked. That simplicity is what we are looking for in a modern, connected and complex digital world. This is why TOPDOX came up.\n\n Let’s get out of the box and start doing things together.";
+
+"Send Feedback" = "Send Feedback";
+
+"Login" = "Login";
+
+"Signup" = "Signup";
+
+"Sign up with Facebook" = "Sign up with Facebook";
+
+"Login with Facebook" = "Login with Facebook";
+
+"Login with Google" = "Login with Google";
+
+"Forgot Password" = "Forgot Password";
+
+"Sign up with Google" = "Sign up with Google";
+
+"Recover password" = "Recover password";
+
+"Use Touch ID" = "Use Touch ID";
+
+"%d minute" = "%d minute";
+
+"%d minutes" = "%d minutes";
+
+"%d hour" = "%d hour";
+
+"Your LockScreen code will be required after a device restarts or when touch ID authentication fails." = "Your LockScreen code will be required after a device restarts or when touch ID authentication fails.";
+
+"Your lock screen will be required every time you return to the app or after %@ of being unused. \n\n Your LockScreen code will be required after a device restarts or when touch ID authentication fails." = "Your lock screen will be required every time you return to the app or after %@ of being unused. \n\n Your LockScreen code will be required after a device restarts or when touch ID authentication fails.";
+
+"All file activity notifications will be cleared. \n No files will be deleted." = "All file activity notifications will be cleared. \n No files will be deleted.";
+
+"Insufficient parameters. Please accept all permissions" = "Insufficient parameters. Please accept all permissions";
+
+"[%lu files indexed]" = "[%lu files indexed]";
+
+"Date" = "Date";
+
+"Size" = "Size";
+
+"Empty folder" = "Empty folder";
+
+"Backup completed" = "Backup completed";
+
+"Saving photos..." = "Saving photos...";
+
+//"Tip: You can have as many [scheme] linked as you like. Learn more.";
+"Tip: You can have as many [scheme] linked as you like. Learn more." = "Tip: You can have as many [scheme] linked as you like.";
+
+"Premium" = "Premium";
+
+"Do more with TOPDOX Premium" = "Do more with TOPDOX Premium";
+
+"Get TOPDOX Premium now" = "Get TOPDOX Premium now";
+
+"--/month" = "--/month";
+
+"%@/month" = "%@/month";
+
+"Thanks for purchasing %@ Premium" = "Thanks for purchasing %@ Premium";
+
+"Get %@ Premium now" = "Get %@ Premium now";
+
+"There was a problem connecting to the iTunes store, please try again later." = "There was a problem connecting to the iTunes store, please try again later.";
+
+"Multiple accounts" = "Multiple accounts";
+
+"Connect unlimited cloud accounts of any supported cloud service." = "Connect unlimited cloud accounts of any supported cloud service.";
+
+"Convert to PDF" = "Convert to PDF";
+
+"Create a PDF file from any Word document, Open Office document and more." = "Create a PDF file from any Word document, Open Office document and more.";
+
+"Offline access" = "Offline access";
+
+"Enable offline access for your favorite files to use them anytime, anywhere" = "Enable offline access for your favorite files to use them anytime, anywhere";
+
+"Premium everywhere" = "Premium everywhere";
+
+"Upgrade to Premium in any device, get premium in all supported platforms and applications" = "Upgrade to Premium in any device, get premium in all supported platforms and applications";
+
+"E-mail" = "E-mail";
+
+"Password" = "Password";
+
+"or" = "or";
+
+"First Name" = "First Name";
+
+"Last Name" = "Last Name";
+
+"Email" = "Email";
+
+"Repeat Password" = "Repeat Password";
+
+"%d files need to be synced" = "%d files need to be synced";
+
+"Our service is currently unavailable." = "Our service is currently unavailable. Please try again later.";
+
+"Optimizing for mobile view." = "Optimizing for mobile view.";
+
+"@TOPDOX is collaboration made awesome. Read, Edit & Share any file, anywhere. Install, share & Get Premium for free." = "With @TOPDOX you can read, edit & share any file, anywhere. Why don’t you give it a try?";
+
+"TOPDOX is collaboration made awesome. Read, Edit, Share or Collaborate on any document, anytime and anywhere. Discover more, share and get one-month of premium for free." = "TOPDOX is collaboration made awesome. Read, Edit, Share or Collaborate on any document, anytime and anywhere. Discover more, share and get one-month of premium for free.";
+
+"Read reviews, compare customer ratings, see screenshots, and learn more about TOPDOX."= "Read reviews, compare customer ratings, see screenshots, and learn more about TOPDOX.";
+
+"Share on Twitter to get free premium" = "Free Premium? Share on Twitter";
+
+"Share on Facebook to get free premium" = "Free Premium? Share on Facebook";
+
+"Extra security" = "Extra security";
+
+"Enable lock screen security with touchID" = "Enable lock screen security with touchID";
+
+"Become a Premium and export your files to PDF. Subscribe Now!" = "Become a Premium user and export your files to PDF. Subscribe Now!";
+
+//missing
+
+"Connection error. Please try to login again. We apologize for the inconvenient." = "Connection error. Please try to login again. We apologize for the inconvenient.";
+
+"Hurray! You are now a Premium user.\nShare the love!" = "Hurray! You are now a Premium user.\nShare the love!";
+
+"Item is still syncing."= "Item is still indexing.";
+
+"Movies" = "Movies";
+
+"Do you want to use cellular data?" = "Do you want to use cellular data?";
+
+"You can change this later in the settings" = "You can change this later in the settings";
+
+"Use cellular data" = "Use cellular data";
+
+"Cellular Data Plan" = "Cellular Data Plan";
+
+"Others" = "Others";
+
+"Documents" = "Documents";
+
+"No favorites yet..." = "No favorites yet...";
+
+"Files you make favorites will show up here." = "Files you make favorites will show up here.";
+
+"Favorite files can be available offline if you choose so." = "Favorite files can be available offline if you choose so.";
+
+"Your Camera roll and albums" = "Your Camera roll and albums";
+
+"Your Music library and more" = "Your Music library and more";
+
+"All files and documents inside this folder\n will be shared by all TOPDOX Apps:\n T Files, T Writer and T PDF" = "All files and documents inside this folder\n will be shared by all TOPDOX Apps:\n T Files, T Writer and T PDF";
+
+"File with same name already exists. A duplicate will be created." = "File with same name already exists. A duplicate will be created.";
+
+"Files with same name already exists. A duplicate will be created." = "Files with same name already exists. A duplicate will be created.";
+
+"File copied" = "File copied";
+
+"Shared folder across TOPDOX Apps" = "Shared folder across TOPDOX Apps";
+
+"File moved" = "File moved";
+
+//-----------------
+"Account is still syncing." = "Account is still indexing";
+
+"Next" = "Next";
+
+"Get started" = "Get started";
+
+"Open and edit your documents: MS Word & OpenOffice" = "Access, open and read all your files\n Edit text documents";
+
+"Work on your documents\n like you’d do on desktop!" = "Work on your documents\n like you’d do on desktop!";
+
+"Bookmark, zoom, share and print your PDFs!" = "Bookmark, zoom, share and print your PDFs!";
+
+"Move and share your files.\n Edit them even offline!" = "Move and share your files.\n Edit them even offline!";
+
+"No format losses:\n MS Word, OpenOffice\n & Google Docs Supported" = "No format losses:\n MS Word, OpenOffice\n & Google Docs Supported";
+
+"Full control over your documents: convert to PDF" = "Full control over your documents: convert to PDF";
+
+"Renaming file..." = "Renaming file...";
+
+"File deleted" = "File deleted";
+
+"File renamed" = "File renamed";
+
+"Loading file..." = "Loading file...";
+
+"Bookmarks" = "Bookmarks";
+
+"Resume" = "Resume";
+
+"No bookmarks yet" = "No bookmarks yet";
+
+"When you tap the bookmark button,\n the page you're currently reading will\n be marked and will be shown here" = "When you tap the bookmark button,\n the page you're currently reading will\n be marked and will be shown here";
+
+"Page " = "Page ";
+
+"Print" = "Print";
+
+"File operations..." = "File operations...";
+
+"Red" = "Red";
+
+"Orange" = "Orange";
+
+"Yellow" = "Yellow";
+
+"Green" = "Green";
+
+"Blue" = "Blue";
+
+
+"Color..." = "Color...";
+
+"Thickness..." = "Thickness...";
+
+"Yes" = "Yes";
+
+"No" = "No";
+
+"Do you really want to cancel backup from %@ and start to %@?" = "Do you really want to cancel backup from %@ and start to %@?";
+
+"Do you really want to cancel backup?" = "Do you really want to cancel backup?";
+
+"Deleting folder..." = "Deleting folder...";
+
+"Folder deleted" = "Folder deleted";
+
+"Connect a cloud account" = "Connect a cloud account";
+
+"Experience the full power of TOPDOX by connecting a cloud account" = "Experience the full power of TOPDOX by connecting a cloud account";
+
+"Create/edit documents in\n the clouds. Even offline." = "Create/edit documents in\n the clouds. Even offline.";
+
+"Create or edit your text documents in the cloud. 100% compatible with Microsoft Office and OpenOffice. Just tap the blue (+) button to start." = "Create or edit your text documents in the cloud. 100% compatible with Microsoft Office and OpenOffice. Just tap the blue (+) button to start.";
+
+"Create/edit documents" = "Create/edit documents";
+
+"Create or edit your text documents. 100% compatible with Microsoft Office and OpenOffice." = "Create or edit your text documents. 100% compatible with Microsoft Office and OpenOffice.";
+
+"Create, scan and\n annotate PDFs" = "Create, scan and\n annotate PDFs";
+
+"Convert Office documents to PDF. use your camera as a scanner. Add notes and annotations to your PDF documents." = "Convert Office documents to PDF. Use your camera as a scanner. Add notes and annotations to your PDF documents.";
+
+"Write on the go" = "Write on the go";
+
+"Any document format" = "Any document format";
+
+"Manage & organize" = "Manage & organize";
+
+"PDF power house" = "PDF power house";
+
+"Why do you need to sign up?" = "Why do you need to sign up?";
+
+"Create or edit your documents with or without internet. On any cloud." = "Create or edit your documents with or without internet. On any cloud.";
+
+"You can create and edit Microsoft Word, OpenOffice or Google Documents. 100%% perfect when back to PC/Mac." = "You can create and edit Microsoft Word, OpenOffice or Google Documents. 100%% perfect when back to PC/Mac.";
+
+"Manage all your files from one app. Move, delete, rename, even cross cloud accounts." = "Manage all your files from one app. Move, delete, rename, even cross cloud accounts.";
+
+"Scan, print, read, convert, edit and annotate PDFs on your favorite cloud, device or e-mail." = "Scan, print, read, convert, edit and annotate PDFs on your favorite cloud, device or e-mail.";
+
+"Because we sync your workspace across devices and platforms. iOS, Android and Web." = "Because we sync your workspace across devices and platforms. iPhone, iPad and Web.";
+
+"Creating PDF..." = "Creating PDF...";
+
+"PDF created" = "PDF created";
+
+"Something went wrong uploading PDF" = "Something went wrong uploading PDF";
+
+"You need to grant camera permission." = "You need to provide camera permission.";
+
+"No more results" = "No more results";
+
+"This won't change document text format." = "This won't change document text formating.";
+
+"This is only to optimize viewing on mobile devices." = "This is only to optimize viewing on mobile devices.";
+
+"Loading..." = "Loading...";
+
+
+
+
+"Connect" = "Connect";
+
+"You will receive an email with instructions to reset your password" = "You will receive an email with instructions to reset your password";
+
+"Got it" = "Got it";
+
+"Try it" = "Try it";
+
+"New Scan" = "New Scan";
+
+"Undo" = "Undo";
+
+"Done" = "Done";
+
+"File copied" = "File copied";
+
+"File Renamed" = "File renamed";
+
+"File Moved" = "File Moved";
+
+"To create documents, you need to open our Writer App" = "To create documents, you need to open our Writer App";
+
+"To scan documents you need to open our PDF App" = "To scan & annotate documents you need to open our PDF App";
+
+"Open T Writer app. You can create and edit Microsoft Word and OpenOffice documents" = "Open T Writer app. You can create and edit Microsoft Word and OpenOffice documents";
+
+"Open T PDF. You can scan documents to PDF and annotate them." = "Open T PDF. You can scan documents to PDF and annotate them.";
+
+"Save" = "Save";
+
+"Retake" = "Retake";
+
+"Security" = "Security";
+
+"Uploading pdf..." = "Uploading pdf...";
+
+"To unzip files you need to open T Files app" = "To unzip files you need to open T Files app";
+
+"Open T Files App. You can manage all type of files, photos, videos & more." = "Open T Files App. You can manage all type of files, photos, videos & more.";
+
+"Cut" = "Cut";
+
+"Paste" = "Paste";
+
+"Signed up" = "Signed up";
+
+"Your account was successfully created!" = "Your account was successfully created!";
+
+"A file/folder with the same name already exist in the current directory." = "A file/folder with the same name already exist in the current directory.";
+
+"Pick a name for your file and it will be saved in the same place of your document" = "Pick a name for your file and it will be saved in the same place of your document";
+
+"Name the PDF File" = "Name the PDF File";
+
+"Copy Cloud" = "Copy Cloud";
+
+"System Folders" = "System Folders";
+
+"Shared folder across TOPDOX Apps" = "Shared folder across TOPDOX Apps";
+
+"Your Movie library and more" = "Your Movie library and more";
+
+"All files and documents inside this folder will be shared by all TOPDOX Apps: T Files, T Writer and T PDF" = "All files and documents inside this folder will be shared by all TOPDOX Apps: T Files, T Writer and T PDF";
+
+"Other cloud services coming soon" = "Other cloud services coming soon";
+
+"Alert" = "Alert";
+
+"Bookmark added" = "Bookmark added";
+
+"Search over" = "Search over";
+
+"End of document" = "End of document";
+
+"You have reached the last page" = "You have reached the last page";
+
+"Error" = "Error";
+
+"Coming Soon" = "Coming Soon";
+
+"Support to edit Google Docs coming soon" = "Support to edit Google Docs coming soon";
+
+//v2 strings
+
+"Password must have at least 6 characters" = "Password must have at least 6 characters";
+
+"Password confirmation is different from your chosen password" = "Password confirmation is different from your chosen password";
+
+"Please make sure you accept our app permissions" = "Please make sure you accept our app permissions";
+
+"Invalid account name" = "Invalid account name";
+
+"There is a problem with your account." = "There is a problem with your account.";
+
+"There is a problem with your account. Please unlink and add it again." = "There is a problem with your account. Please unlink and add it again.";
+
+"We apologize for the inconvenience." = "We apologize for the inconvenience.";
+
+"File uploaded" = "File uploaded";
+
+"Do you want to logout from TOPDOX?" = "Do you want to logout from TOPDOX?";
+
+"All user info will be removed" = "All user info will be removed from this device";
+
+"Remove" = "Remove";
+
+"We are doing some house cleaning to make your app faster" = "We are doing some house cleaning to make your app faster";
+
+
+"More results" = "More results";
+
+"Full search" = "Full search";
+
+"Share File" = "Share File";
+
+"Your message" = "Your message";
+
+"Send" = "Send";
+
+"Success" = "Success";
+
+"Your email will be sent shortly" = "Your email will be sent shortly";
+
+"Error" = "Error";
+
+"You need to enter a valid email address" = "You need to enter a valid email address";
+
+"Your %@ account finished to sync, but some files may be missing. It's now ready to read, organize, delete or search for files & documents" = "Your %@ account finished to sync, but some files may be missing. It's now ready to read, organize, delete or search for files & documents";
+
+"Send link by e-mail" = "Share link by e-mail";
+
+"More..." = "More...";
+
+"UPLOAD/DOWNLOAD" = "UPLOAD/DOWNLOAD";
+
+"Something went wrong copying your file" = "Something went wrong copying your file";
+
+"Something went wrong uploading your file" = "Something went wrong uploading your file";
+
+"Save in Local Storage" = "Save in Local Storage";
+
+"File saved in local storage" = "File saved in local storage";
+
+"Unable to save file in local storage" = "Unable to save file in local storage";
+
+"File with same name already exists" = "File with same name already exists";
+
+"Add Drive..." = "Add more clouds...";
+
+"Add new accounts" = "Add more cloud accounts";
+
+"Uploading" = "Uploading";
+
+"Copying..." = "Copying...";
+
+"Moving..." = "Moving...";
+
+"Failed" = "Failed";
+
+"There is a problem with your %@ account. Please unlink and add it again." = "There is a problem with your %@ account. Please unlink and add it again."; //there is already a string for this, just without %@
+
+
+"Add your clouds\n and manage them" = "Add your clouds\n and manage them"
+
+"Unleash the power of TOPDOX\n with clouds. Add your favourites\n cloud service now." = "Unleash the power of TOPDOX\n with clouds. Add your favourites cloud service now.";
+
+"Note: Registering an account is very easy,\n so give it a try! It will only take a minute." = "Note: Registering an account is very easy,\n so give it a try! It will only take a minute.";
+
+//----
+"Storage quota exceeded" = "Storage quota exceeded";
+
+"Welcome to TOPDOX" = "Welcome to TOPDOX";
+"Connect all your cloud accounts. Access to all your documents, anytime, everywhere. Even offline." = "Connect all your cloud accounts. Access to all your documents, anytime, everywhere. Even offline.";
+
+"Work faster" = "Work faster";
+"Stop switching apps and managing your files. Get things done faster on mobile." = "Stop switching apps and managing your files. Get things done faster on mobile.";
+
+"Any document format" = "Any document format";
+"Create and edit Microsoft Word,  OpenOffice or Google Documents 100% perfect when back to PC/Mac." = "Create and edit Microsoft Word,  OpenOffice or Google Documents 100% perfect when back to PC/Mac.";
+
+"Share documents with anyone. By e-mail, web and mobile. Any document size." = "Share documents with anyone. By e-mail, web and mobile. Any document size.";
+
+"Why do you need an account?" = "Why do you need an account?";
+"We sync your workspace. But we do NOT store your documents." = "We sync your workspace. But we do NOT store your documents.";
+
+"You need a cloud to make the most out of TOPDOX platform. You an create one for free." = "You need a cloud to make the most out of TOPDOX platform. You an create one for free.";
+
+"Create a cloud storage account for free" = "Create a cloud storage account for free";
+"Connect your cloud account" = "Connect your cloud account";
+
+"Awesome!" = "Awesome!";
+"Congratulations! You connected your first cloud to TOPDOX." = "Congratulations! You connected your first cloud to TOPDOX.";
+
+"You can connect as many cloud accounts as you wish." = "You can connect as many cloud accounts as you wish.";
+
+"Create your first document" = "Create your first document";
+
+"You can choose your favorite format. Microsoft Word, Google Docs or OpenOffice. You can also create any of these documents in your clouds:" = "You can choose your favorite format. Microsoft Word, Google Docs or OpenOffice. You can also create any of these documents in your clouds:";
+
+"Do you want to save your document to a cloud?" = "Do you want to save your document to a cloud?";
+
+"Open Locally" = "Open locally";
+
+"Save to cloud" = "Save to cloud";
+
+"Select" = "Select";
+
+"Do you have a cloud account?" = "Do you have a cloud account?";
+
+"Do you have a Dropbox, Google Drive, One Drive or Box account?" = "Do you have a Dropbox, Google Drive, One Drive or Box account?";
+
+"Yes, I have a cloud" = "Yes, I have a cloud";
+
+"All user info will be removed" = "All user info will be removed from this device";
+
+"You didn't enter any email" = "You didn't enter any email";
+
+
+//---- new for v5.5
+
+
+"Loading your recent files..." = "Loading your recent files...";
+
+"This may take a while" = "This may take a while";
+
+"File no longer exist." = "File no longer exists";
+
+"File is corrupted or protected by password" = "File is corrupted or protected by password";
+
+"An error occurred exporting your file. We could not complete the operation." = "An error occurred exporting your file. Please try again.";
+
+"Account no longer exist." = "Account no longer exists";
+
+"Exporting your PDF\n\n\n" = "Exporting PDF document\n\n\n";
+
+"Something went wrong uploading %@" = "Something went wrong uploading %@";
+
+"Something went wrong copying %@" = "Something went wrong copying %@";
+
+"Copied file %@" = "Copied file %@";
+
+"All files copied" = "All files copied";
+
+"Moved file %@" = "Moved file %@";
+
+"All files moved" = "All files moved";
+
+"Uploaded file %@" = "Uploaded file %@";
+
+"All files uploaded" = "All files uploaded";
+
+"Sorry, we can´t open this file!" = "Sorry, we can´t open this file!";
+
+"This is a google docs file, and can only be accessed from inside a Google Drive account" = "This is a Google document and it can only be accessed from inside a Google Drive account";
+
+"Preparing to print document\n\n\n" = "Generating print layout...\n\n\n";
+
+"Search" = "Search";
+
+"ACTIVITY" = "ACTIVITY";
+
+"Getting content" = "Getting content";
+
+"Downloading" = "Downloading…";
+
+"Uploading" = "Uploading…";
+
+"Downloaded |" = "Downloaded |";
+
+"Uploaded |" = "Uploaded |";
+
+"Copied |" = "Copied |";
+
+"Moved |" = "Moved |";
+
+"%i of %i" = "%i of %i";
+
+"Do you really want to cancel?" = "Do you really want to cancel?";
+
+"Sign out" = "Sign out";
+
+"Need an account? It's free!" = "Already have an account? Login here!";
+
+"Already have an account?" = "Already have an account?";
+
+"Log in" = "Log in";
+
+"New user registration" = "New user registration";
+
+"Close" = "Close";
+
+"Recover password" = "Recover password";
+
+"Welcome back ❤️" = "Welcome back ❤️";
+
+"Recover password 🔑" = "Recover password 🔑";
+
+"You will receive an e-mail with instructions to help you create a new password for your TOPDOX account." = "You will receive an e-mail with instructions to help you create a new password for your TOPDOX account.";
