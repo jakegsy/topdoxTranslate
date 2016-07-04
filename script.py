@@ -60,7 +60,7 @@ def writeToFile(fileName):
         file.close()
 
 
-writeToFile("raw2")
+writeToFile("translated")
 
 
 
